@@ -2,15 +2,29 @@
 
 Nothing worthwhile happens by accident. I’m guided by unconventional choices, being both motivated and driven by a desire to stand out and be part of something meaningful. I have navigated my professional and personal life to achieve success and joy. From my early career as a professional Sound Engineer at Channel4 to becoming a specialist BBC sound technician. I demonstrated fastidious attention to detail in high stakes broadcast environments whilst maintaining seamless, high quality output for the viewing public.
 Parenthood rightly recalculated my worklife balance, so I adapted to that situation and trained as a bespoke tailor in my free time, establishing a successful Tailoring business that produced costumes for clients inc. Royal Opera House and Madame Tussauds.
-I would say with confidence, that colleagues, clients and friends would characterise me as reliable, determined and a good communicator. I am adaptable to situations and concious of ensuring the ease of others. I celebrate being a positive and collaborative, team member who is prepared to step-up and get involved, taking the lead when called upon and striking the right balance. I enjoy running, meditating, learning, reading and time with friends and family.
+I would say with confidence, that colleagues, clients and friends would characterise me as reliable, determined and a good communicator. I am adaptable to situations and concious of ensuring the ease of others. I celebrate being a positive and collaborative, team member who is prepared to step-up and get involved, taking the lead when called upon and striking the right balance. I enjoy running, meditating, learning, music, reading and time with family and friends.
 I stand by the claim that I created my opportunities and continue to work hard to achieve my goals, most recently earning a scholorship to Makers Academy Bootcamp. My transition into tech is a natural interweaving of existing engineering, precision craft and determined spirit which embraces my passion to embark on a new challenge.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                                        | Description                              | Tech/tools                     |
+| ------------------------------------------- | ---------------------------------------- | ------------------------------ |
+| **Final Project**                           | Toilet Webapp to locate, list, filter,   | MERN stack, React Leaflet      |
+|                                             | review, add new, rate, add images,       | Openstreetmap, Nominaton,      |
+| https://potty-pal-frontend.onrender.com/    | of public toilets on a map and display   | Compass, Postman, MongodB      |
+|                                             | pins with popups, Sign-up, log-in        | Cypress, Jest, Tailwind, Node  |
+|                                             | Front/backend built from scratch.        | Majestic, Javascript, Prettier |
+|                                             | Collaborative prj and pairing.           | VCS live, Slack comms          |
+| ------------------------------------------- | --------------------------------------   | -----------------------------  |
+| **Acebook Challenge**                       | improve and extend a simple existing     | MERN, NoSQL Mongoose, Prettier |
+|                                             | prog. Add functionality of basic stack   | esLint, Nodemon, Cypress, Jest |
+|                                             | and render in http format client side.   | Functions added - encrypted    |
+|                                             | log-in/out & sign-up, navbar, view posts | JSON Web Tokens, BCrypt,       |
+|                                             | add post, like, comment, timestamps,     | Javascript                     |
+|                                             | Collaborative prj and pairing.           | VCS live, Slack comms          |
+| ------------------------------------------- | --------------------------------------   | -----------------------------  |
+| **Bowling Challenge**                       | Challenge to create a 10 pin bowling     | Ruby, RSpec,                   |
+|                                             | scorecard program.                       |
 
 ## Work Experience
 
