@@ -49,7 +49,6 @@ Testamonials attesting to the quality of workmanship and equally the enjoyment o
 https://www.facebook.com/chalkandfeather/?locale=en_GB
 
 **BBC** (2004 - 05/2011)  
-_Worked in a number of capacities_
 _Programme Transfer Archivist(BBC Radio Rescources:Sound Engineering)_
 
 - To transfer and preserve the entire BBC radio Archives since inception of BBC
@@ -102,12 +101,17 @@ An initiative I concieved whilst at Woman's Hour, was to create a project to arc
 
 #### Makers Academy ( 12/2022 - 04/2023 )
 
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below:
+- Total immersion and hands on from day 1. Introduced to the logic and methodology expected for software developers
+- Worked through a curriculum, frequently adding solo, paired and team projects to github and completing additional weekend challenges.
+- Pair programming became a staple with successful collaboration to learn, explore, understand and effeciently produce quality code and build lasting friendships
+- Engineering projects involved teamwork and communication in an Agile sprint framework. I played a key role fostering an environment that encouraged openess and supportive collaboration to achieve team and individual goals as well as a product to be proud of.
+- Adopted the central concepts of Test Driven Development (TDD) which proved an afffective programming style
+- Discovered how to see things differently , break problems down, ask questions, mindmap, discuss, diagram, comment
+- Learned how to learn, and importantly, how I learn most effectively.
+- Embraced new languages and technologies and remain eager to **\*finding stuff**
 - Principles central to the Makers strategy and developed my understanding of OOP - Object Oriented Programming, TDD - Test Driven Design , MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, JavaScript
 - RSpec, Jest, Cypress
 
 #### Introduction to Coding ( 2022 )
