@@ -30,8 +30,8 @@ My routine 'levellers' include running, meditating, learning, music, reading and
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Chalk and Feather Tailors** (09/2017 to 04/2022)  
+_Tailor_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
