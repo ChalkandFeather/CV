@@ -1,10 +1,12 @@
 ## Marie Taylor
 
-Guided by unconventional choices, I am motivated and driven by the desire to create something meaningful, and have navigated my professional and personal life to achieve success and joy. From my early career as an engineer at Channel4 progressing to a sound technician at the BBC, I demonstrated fastidious attention to detail in high stakes, high pressured broadcast environments to maintain seamless, high quality output for UK audiences.
-I celebrate being a positive and collaborative, team member who is prepared to step-up and get involved, taking the lead when called upon by striking the right balance.
-
-With a keen interest in sustainability, I trained as a bespoke tailor in my free time, later going on to establish a successful Tailoring business that produced costumes for clients inc. Royal Opera House and Madame Tussauds. My tailoring studio was an ideal solution whilst caring for young children, but my long term aspirations required a greater leap. . .Enter, Makers Academy. Following months of ‘skilling-up’ I achieved a scholarship place at Makers. I dedicated the next 4 months exclusively, to revolutionise my career on this intense ‘Oxbridge’, of Software Bootcamps. Laser focused on learning and humbly acknowledging the enormity of success, I proudly graduated with technical skills, portfolio, knowledge and the key to unlocking future learning and growth. This transition into tech certainly benefits from my acquired work and training experience, but the additional grounding I believe I offer rests in how I interact with colleagues and clients, with energy, professionalism and good nature.
-Inseperable from my very being are the 'levellers' which keep me grounded. If it wasn't for the time I dedicate to running, meditating, growing my brain,listening to music and podcasts, reading and spending time with family and friends, I simply wouldn't be who am I.
+Guided by unconventional choices, I am motivated and driven by the desire to create something meaningful, navigating my professional and personal life for success and joy. From my early career as an engineer at Channel4 progressing as a BBC Technician, I demonstrated fastidious attention to detail in high stakes broadcast environments to maintain seamless, high quality output for UK audiences.
+I celebrate being a positive and collaborative team member. Prepared to step-up, get involved and take the lead, striking the right balance.
+Keenly interested in sustainability, I trained as a bespoke tailor and established a successful Tailoring business with a client roll call inc. Royal Opera House, Madame Tussauds, Disney. My tailoring studio bridged the gap while caring for a young family, but longer term aspirations required a greater leap… Enter, Makers Academy. Following months of ‘skilling-up’ I gained a Makers scholarship. I dedicated the next 4 months exclusively, to revolutionize my career on this intense ‘Oxbridge’, of Software Bootcamps.
+Having harnessed the underlying fundamentals to become a software developer, I graduated with an impressive collection of technical skills and the mindset of a successful engineer. Maybe even more importantly, I have discovered the key to unlock learning and knowledge growth for a progressive future. Staying humble, and staying curious.
+Carefully curated choices have guided this transition into tech. Drawing on my technical broadcast background and creative, refined Tailoring skills. Always seeking quality. Always collaborative
+Work is more than punching cards. I bring energy, professionalism and good nature into a team.
+I care about a good many topics with sustainability and ethics playing a key role in learning and life choices. Music, podcasts, art and reading influences much of my free time, whilst running and meditation keep me on an even keel.
 
 ## Projects
 
@@ -34,129 +36,41 @@ Inseperable from my very being are the 'levellers' which keep me grounded. If it
 
 ## Work Experience
 
-**Chalk and Feather Tailors** (09/2017 to 04/2022)  
-_Tailor_
-
-- Established business from SE London Studio
-- As a sole trader, I managed all financial aspects of projects and all administrative tasks, accounting in QuickBooks, preparing invoices and tax returns, negotiating deals with suppliers, and maintaining and ordering stock
-- Bespoke projects demonstrate a keen eye for detail and precision, as well as a problem-solving mindset
-- Negotiated complex design problems and assembled tenders for projects, showcasing my ability to communicate effectively and manage projects end to end
-- Excellent communication skills, both written and verbal with a human yet professional air
-- Upkeep of online presence with targeted social media platforms for promotion
-- Provided 1:1 tuition, group classes and workshops demonstrating presentation and leadership qualitites as well as an understanding of people skills
-
-Testamonials attesting to the quality of workmanship and equally the enjoyment of working with me on long term projects
+**Chalk and Feather Tailors** (09/2017 to 04/2022) - Tailor/ Proprietress
+Unique bespoke projects - demonstrating a keen eye for detail, design, precision and quality
+As sole trader, managed financial and admin duties: accounting, budgeting, negotiating with clients and suppliers and marketed the business on Social Media
+Assembled tenders for projects, showcasing effective communication and project management from end to end with strong written and verbal skills with a human, yet professional air
+Provided 1:1 tuition and workshops, demonstrating leadership qualities and people skills -Ability to read a room and respond sympathetically
+Testimonials attesting to the quality of my workmanship and positive client experience can be found here
 https://www.facebook.com/chalkandfeather/?locale=en_GB
 
-**BBC** (2004 - 05/2011)  
-_Programme Transfer Archivist(BBC Radio Rescources:Sound Engineering)_
+**BBC** (2004 - 05/2011) Programme Transfer Archivist (BBC Radio Resources)
+Based at Maida Vale studios, transfer, catalog and preserve BBC radio output. Audio analysis and restoration. Editing and transferring analogue and digital media assets
+Working with large datasets. Creating, updating and maintaining databases with metadata,audio files and reporting, to improve library access for global users
+Supported setup of Gaelic project in Loch Boisdale providing technical and project management
+Operational engineering support for BBC Proms and BBC studio recordings
 
-- To transfer and preserve the entire BBC radio Archives since inception of BBC
-- Collaborative team project based in Maida Vale studio
-- Experience working with large datasets. Creating, updating and maintaing the development of the databases to improve BBC Radio Archives as an accessible library, with meta data and audio files
-- Sound engineering, audio analysis, editing and audio restoration, working with analogue and digital audio formats
-- Introduced and supported the commencement of sister archive project for BBC Scotland on a regional Gaelic project, travelling to the remote island of Loch Boisdale to provide tehnical assistance and project management
-- Daily interaction with BBC databases, platforms, systems and working practices
-- Management of archive
-- Attended numerous residential Studio Manager training programs to maintain an understanding of up-to date broadcast procedures and studio technologies which qualified me as a studio engineer for BBC Proms and BBC studio recordings.
+**BBC** R4 Woman's Hour (2006) & Any Answers Broadcast Assistant (2007-2011)
+Ability to work in a fast-paced, dynamic environment in broadcast critical setting
+Strong research and analytical skills to present program ideas and scripts,admin duties, payments and bookings
+Communicate with guests and audience representing the BBC core values and compliance with BBC policy
+Initiated and managed a project to migrate pre-recorded 'Obituaries' for transfer and cataloging
 
-A technical and demanding team role to develop a working model and deliver a large scale project within a time frame. We built the project from the ground up, from a user and technicians perspective to determin best practise. It was history in the making. I have transferred and restored early gramaphone and DAT recordings previously forgotton, but are now both searchble and accessable.
+Wildtracks Audio Post Production (2002 - 2004) - Senior Video Technician providing technical support
 
-_BBC R4: Woman's Hour & Any Answers- Broadcast Assistant_
-
-- Ability to work in a fast-paced, dynamic environment on a live daily broadcast setting
-- Strong research and analytical skills to present program ideas and scripts
-- Attention to detail and ability to work in a critical, time-sensitive environment. Predict and make changes on the fly
-- Attend and minute planning meetings and retros
-- Maintain adminstrative duties, payments and bookings
-- Communicate with guests and audience representing the BBC core values and compliance with BBC policy
-- Flag areas of concern through correct channels
-- Act as point of contact for enquiries and take appropriate action
-
-This dynamic role was an opportunity to experience radio from production side. I was considered a valuable member of the team and enjoyed responding to the changing demands, always ensuring every show was fully planned, prepped and accounted for.
-An initiative I concieved whilst at Woman's Hour, was to create a project to archive pre-recorded 'Obituaries'. I noticed that producers were unable to respond quickly to news events as the collection was stored on decommisioned analogue tape. I migrated the data and arranged for the project to be transferred. I also provided content for a number of broadcast items.
-
-**Wildtracks Audio Post Production** (2002 - 2004)
-
-- Senior Video Tape Technican providing technical support to studios and engineers
-- Transfer sound and picture to various digital formats and prepare sessions
-- Manage audio tracklays and 5.1 audio laybacks
-- Connect ISDN communication lines and manually patch signals to studios
-- Edit and record audio
-- General admin, PC & general housekeeping, stock maintainance, archive and manage files and databases
-- Communicate with bookings staff, clients and suppliers
-
-**Channel4TV** ( 2000-2002 )
-
-- Video Tape Technician MCR & commercials support
-- From Transmission and working closely with broadcast engineers, communicating with external agencies and manually patching in live feeds to MCR from ITN Newsdesk and E4 Big Brother.
-- Ensuring output broadcast, correllates with unique schedule across regions
-- Review & grade Audio and Video, generate and distribute copies for scheduling and broadcast
-- Linear edit, sound and pictures within techincal and legal broadcast specifications
-- Picture and Audio restoration of archive material
-- Ingest commercials for automised playout
-- Data entry
+Channel4TV ( 2000-2002 ) - Video Tape Technician MCR & Transmission support
 
 ## Education
 
-#### Makers Academy ( 12/2022 - 04/2023 )
+**Makers Academy** ( 12/2022 - 04/2023 )
+Curriculum of total immersion, centered around learning, solving and development of project based work. Programming fundamentals.Version control with Git/GitHu. Test-driven development (TDD), Object-oriented programming (OOP) principles, Full-stack web development using Ruby and javascript, Front-end HTML, CSS, Relational databases and SQL. Deployment and hosting of web applications and Integration of third-party APIs
+Engineering projects involved teamwork and communication in an Agile sprint framework. I played a key role fostering an environment that encouraged openness and supportive collaboration to achieve team and individual goals as well as a product to be proud of
+Pair programming became staple with successful collaboration to learn, explore, understand and efficiently produce quality code and build lasting relationships
 
-- Total immersion and hands on from day 1. Introduced to the logic and methodology expected for software developers
-- Worked through a curriculum, frequently adding solo, paired and team projects to github and completing additional weekend challenges.
-- Pair programming became a staple with successful collaboration to learn, explore, understand and effeciently produce quality code and build lasting friendships
-- Engineering projects involved teamwork and communication in an Agile sprint framework. I played a key role fostering an environment that encouraged openess and supportive collaboration to achieve team and individual goals as well as a product to be proud of.
-- Adopted the central concepts of Test Driven Development (TDD) which proved an afffective programming style
-- Discovered how to see things differently , break problems down, ask questions, mindmap, discuss, diagram, comment
-- Learned how to learn, and importantly, how I learn most effectively.
-- Embraced new languages and technologies and remain eager to **\*finding stuff**
-- Principles central to the Makers strategy and developed my understanding of OOP - Object Oriented Programming, TDD - Test Driven Design , MVC, DDD
-- Agile/XP
-- Ruby, JavaScript
-- RSpec, Jest, Cypress
-
-#### Introduction to Coding ( 2022 )
-
-- Level 2
-- My first steps into coding, in tandem with CodeAcademy's Ruby and Codwears Katas
-
-#### Digital Skills ( 2022 )
-
-- Level 2
-- After seeking advice from a careers advisor I embarked upon of series of courses to prepare me for my step into tech.
-
-#### Salford University ( 1997- 2000 )
-
-- Higher National Diploma Professional Sound Engineering
-- Academic audio theory and physics of sound
-- Studio based audio engineering with 48 tracks Analogue and digital equipment and outboard units
-- Mic technique and theory
-- Live PA rigging
-- Electronics and maths for engineering
-
-#### London College Of Fashion ( 2007-2008 )
-
-- Diploma in Handcraft Tailoring
-- Distinction
-- Bespoke Men's Tailoring. R & D projects, Two piece Men's bespoke suit.
-- Produced illustrated design collection
-
-#### London College Of Fashion ( 2008- 2009 )
-
-- Diploma in Production Tailoring
-- Distinction
-- Produced Three piece Men's Tailored suit with illustrated historical theatre design project
-
-#### DelftX ( 2022 )
-
-- Verified Certification Circular Fashion:Design, Science and Value
-- 95% pass
-- With a keen interest in sustainablity and the Circular Economy, I was awarded a Macquarie Scholarship. This was a fascinating deep dive into a subject close to my heart. Final project was to create a compelling and researched pitch for a sustainable business concept
-  https://youtu.be/myZ0FL6Rhto
-
-#### A-Levels (1997)
-
-- Psychology, Sociology, Art and Design, General Studies
-
-#### GCSE (1994)
-
-- 10 A to C grades inc. Maths, English, Sciences
+**Introduction to Coding** ( 2022 ) Level 2
+**Digital Skills** ( 2022 ) Level 2
+**DelftX** ( 2022 ) Circular Fashion:Design, Science and Value
+**DelftX** (2021) Circular Economy
+**Salford University** ( 1997- 2000 ) Higher National Diploma Professional Sound Engineering
+**London College Of Fashion** ( 2008- 2009 ) Diploma in Production Tailoring
+**London College Of Fashion** ( 2007-2008 ) Diploma in Handcraft Tailoring
