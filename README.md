@@ -1,12 +1,12 @@
 ## Marie Taylor
 
-Guided by unconventional choices, I am motivated and driven by the desire to create something meaningful, navigating my professional and personal life for success and joy. From my early career as an engineer at Channel4 progressing as a BBC Technician, I demonstrated fastidious attention to detail in high stakes broadcast environments to maintain seamless, high quality output for UK audiences.
+Guided by unconventional choices, I am motivated and driven by the desire to contribute something meaningful, navigating my professional and personal life for success and joy. From my early career as an engineer at Channel4 progressing as a BBC Technician, I demonstrated fastidious attention to detail in high stakes broadcast environments to maintain seamless, high quality output for UK audiences.
 I celebrate being a positive and collaborative team member. Prepared to step-up, get involved and take the lead, striking the right balance.
-Keenly interested in sustainability, I trained as a bespoke tailor and established a successful Tailoring business with a client roll call inc. Royal Opera House, Madame Tussauds, Disney. My tailoring studio bridged the gap while caring for a young family, but longer term aspirations required a greater leap… Enter, Makers Academy. Following months of ‘skilling-up’ I gained a Makers scholarship. I dedicated the next 4 months exclusively, to revolutionize my career on this intense ‘Oxbridge’, of Software Bootcamps.
-Having harnessed the underlying fundamentals to become a software developer, I graduated with an impressive collection of technical skills and the mindset of a successful engineer. Maybe even more importantly, I have discovered the key to unlock learning and knowledge growth for a progressive future. Staying humble, and staying curious.
-Carefully curated choices have guided this transition into tech. Drawing on my technical broadcast background and creative, refined Tailoring skills. Always seeking quality. Always collaborative
+Interested in sustainability, I trained as a bespoke tailor and established a successful Tailoring business with a client roll call inc. Royal Opera House, Madame Tussauds, Disney. My tailoring studio bridged the gap while caring for a young family, but longer term aspirations required a greater leap… Enter, Makers Academy. Following months of ‘skilling-up’, I gained a full Makers scholarship, dedicating the next 4 months to changing my life on this intense ‘Oxbridge’ of Software Bootcamps.
+Having harnessed the underlying concepts and fundamentals to become a software developer, I graduated with an impressive collection of technical skills and the mindset of a successful engineer. Maybe even more importantly, I have discovered the key to unlock learning and knowledge growth for a progressive future. Staying humble, and staying curious.
+With a track record in a technical broadcast environment plus creative tailoring skills, my career change is prepped for this new challenge, and positively welcomes the learning opportunity for growth, solving complex concepts and working collaboratively with the latest technologies. Always seeking quality.
 Work is more than punching cards. I bring energy, professionalism and good nature into a team.
-I care about a good many topics with sustainability and ethics playing a key role in learning and life choices. Music, podcasts, art and reading influences much of my free time, whilst running and meditation keep me on an even keel.
+I care about a good many topics, with sustainability and ethics playing a key role in learning and life choices. Music, podcasts, art and reading influences much of my free time, whilst running and meditation keep me on an even keel.
 
 ## Projects
 
@@ -67,9 +67,11 @@ I care about a good many topics with sustainability and ethics playing a key rol
 
 **Makers Academy** ( 12/2022 - 04/2023 )
 
-- Curriculum of total immersion, centered around learning, solving and development of project based work. Programming fundamentals.Version control with Git/GitHu. Test-driven development (TDD), Object-oriented programming (OOP) principles, Full-stack web development using Ruby and javascript, Front-end HTML, CSS, Relational databases and SQL. Deployment and hosting of web applications and Integration of third-party APIs
-  Engineering projects involved teamwork and communication in an Agile sprint framework. I played a key role fostering an environment that encouraged openness and supportive collaboration to achieve team and individual goals as well as a product to be proud of
-  Pair programming became staple with successful collaboration to learn, explore, understand and efficiently produce quality code and build lasting relationships
+Makers Academy (12/2022 - 04/2023)
+
+- Curriculum Programming fundamentals, problem solving and development.Version control in GitHub, test-driven development (TDD), object-oriented programming (OOP), Ruby, javascript, Full stack frameworks, HTML, CSS, Relational databases and SQL. Deployment and hosting of web apps and Integration of third-party APIs
+- Engineering team projects, organised into Agile sprints based on . discussed approaches, planning design and features to best reflect user experience and create a schedule of tickets
+- Pair programming via Slack and VCS live- I fostered an environment that encouraged openness and supportive collaboration to achieve team and individual goals plus a product to be proud of
 
 **Introduction to Coding** ( 2022 ) Level 2
 
