@@ -1,37 +1,40 @@
 ## About Me
 
 I am motivated and driven by a desire to contribute to something meaningful, navigating my professional and personal life for success and joy. From my early career as an engineer at Channel4 progressing to a BBC Sound Technician, I have demonstrated fastidious attention to detail in high stakes broadcast environments to maintain seamless, high quality output for UK audiences.
+
 I celebrate being a positive and collaborative team member. Prepared to step-up, get involved or take the lead to produce positive outcomes for stakeholders and colleagues alike. I have a proven track record in various media environments and as a business owner.
+
 As a sustainability-driven entrepreneur, I pursued my passion for tailoring by acquiring bespoke training and establishing a thriving business with a prestigious role call including the Royal Opera House and Disney.
+
 My tailoring studio bridged the gap whilst caring for a young family, but I had aspirations to return to a technology profession to pursue a career in software. I was awarded a scholarship at Makers Academy after months of self-directed learning.
+
 Having harnessed the underlying concepts and fundamentals of a software developer, I graduated with an impressive collection of technical skills and the mindset of a successful engineer who thrives to solve complex real world problems through learning and knowledge growth, while staying humble and curious.
 I am ambitious, and bring energy, professionalism and good nature into a team.
 
 ## Projects
 
-| Name                                        | Description                              | Tech/tools                     |
-| ------------------------------------------- | ---------------------------------------- | ------------------------------ |
-| **Final Project**                           | Toilet Webapp to locate, list, filter,   | MERN stack, React Leaflet      |
-|                                             | review, add new, rate, add images,       | Openstreetmap, Nominaton,      |
-| https://potty-pal-frontend.onrender.com/    | of public toilets on a map and display   | Compass, Postman, MongodB      |
-|                                             | pins with popups, Sign-up, log-in        | Cypress, Jest, Tailwind, Node  |
-|                                             | Front/backend built from scratch.        | Majestic, Javascript, Prettier |
-|                                             | Collaborative prj and pairing.           | VCS live, Slack comms          |
-| ------------------------------------------- | --------------------------------------   | -----------------------------  |
-| **Acebook Challenge**                       | Improve and extend a simple existing     | MERN, NoSQL Mongoose, Prettier |
-|                                             | prog. Add functionality of basic stack   | esLint, Nodemon, Cypress, Jest |
-|                                             | and render in http format client side.   | Functions added - encrypted    |
-|                                             | log-in/out & sign-up, navbar, view posts | JSON Web Tokens, BCrypt,       |
-|                                             | add post, like, comment, timestamps,     | Javascript                     |
-|                                             | Collaborative prj and pairing.           | VCS live, Slack comms          |
-| ------------------------------------------- | --------------------------------------   | -----------------------------  |
-| **Bowling Challenge**                       | Challenge to create a 10 pin bowling     | Ruby, RSpec,                   |
-|                                             | scorecard program.                       |                                |
-| ------------------------------------------- | --------------------------------------   | -----------------------------  |
-|                                             |                                          |                                |
-| **Please explore my Github for more**       |                                          |                                |
-| **examples**                                |                                          |                                |
-| ------------------------------------------- | --------------------------------------   | -----------------------------  |
+| Name                                     | Description                            | Tech/tools                     |
+| ---------------------------------------- | -------------------------------------- | ------------------------------ |
+| **Final Project**                        | Toilet Webapp to locate, list, filter, | MERN stack, React Leaflet      |
+|                                          | review, add new, rate, add images,     | Openstreetmap, Nominaton,      |
+| https://potty-pal-frontend.onrender.com/ | of public toilets on a map and display | Compass, Postman, MongodB      |
+|                                          | pins with popups, Sign-up, log-in      | Cypress, Jest, Tailwind, Node  |
+|                                          | Front/backend built from scratch.      | Majestic, Javascript, Prettier |
+|                                          | Collaborative prj and pairing.         | VCS live, Slack comms          |
+
+| **Acebook Challenge** | Improve and extend a simple existing | MERN, NoSQL Mongoose, Prettier |
+| | prog. Add functionality of basic stack | esLint, Nodemon, Cypress, Jest |
+| | and render in http format client side. | Functions added - encrypted |
+| | log-in/out & sign-up, navbar, view posts | JSON Web Tokens, BCrypt, |
+| | add post, like, comment, timestamps, | Javascript |
+| | Collaborative prj and pairing. | VCS live, Slack comms |
+
+| **Bowling Challenge** | Challenge to create a 10 pin bowling | Ruby, RSpec, |
+| | scorecard program. | |
+
+| **Please explore my Github for more** | | |
+| **examples** | | |
+| ------------------------------------------- | -------------------------------------- | ----------------------------- |
 
 ## Work Experience
 
