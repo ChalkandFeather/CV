@@ -13,28 +13,12 @@ I am ambitious, and bring energy, professionalism and good nature into a team.
 
 ## Projects
 
-| Name                                     | Description                            | Tech/tools                     |
-| ---------------------------------------- | -------------------------------------- | ------------------------------ |
-| **Final Project**                        | Toilet Webapp to locate, list, filter, | MERN stack, React Leaflet      |
-|                                          | review, add new, rate, add images,     | Openstreetmap, Nominaton,      |
-| https://potty-pal-frontend.onrender.com/ | of public toilets on a map and display | Compass, Postman, MongodB      |
-|                                          | pins with popups, Sign-up, log-in      | Cypress, Jest, Tailwind, Node  |
-|                                          | Front/backend built from scratch.      | Majestic, Javascript, Prettier |
-|                                          | Collaborative prj and pairing.         | VCS live, Slack comms          |
-
-| **Acebook Challenge** | Improve and extend a simple existing | MERN, NoSQL Mongoose, Prettier |
-| | prog. Add functionality of basic stack | esLint, Nodemon, Cypress, Jest |
-| | and render in http format client side. | Functions added - encrypted |
-| | log-in/out & sign-up, navbar, view posts | JSON Web Tokens, BCrypt, |
-| | add post, like, comment, timestamps, | Javascript |
-| | Collaborative prj and pairing. | VCS live, Slack comms |
-
-| **Bowling Challenge** | Challenge to create a 10 pin bowling | Ruby, RSpec, |
-| | scorecard program. | |
-
-| **Please explore my Github for more** | | |
-| **examples** | | |
-| ------------------------------------------- | -------------------------------------- | ----------------------------- |
+| Name                                                   | Description                                                                                                                                                                                | Tech/tools                                                                                                             |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| **PottyPals** https://potty-pal-frontend.onrender.com/ | Toilet Webapp to locate, list, filter, review, add, rate, upload img, display pins as pop-ups, sign-in, create acc                                                                         | MERN Fullstack, Javascript, React, Openstreetmap, Nominaton, Compass, Postman, Cypress, Jest, Node, Majestic, Prettier |
+| **Acebook Challenge**                                  | Improve and extend a simple existing prog. Add functionality to basic stack and render in http format client side. Log-in/out, sign-up, navbar, view posts, add, like, comment, timestamps | MERN, NoSQL Mongoose, Prettier, eslint, Functions added - encrypted, JSON Web Tokens, BCrypt                           |
+| **Bowling Challenge**                                  | Challenge to create a 10 pin bowling scorecard program                                                                                                                                     | Javascript, Jest                                                                                                       |
+|                                                        | scorecard program.                                                                                                                                                                         |                                                                                                                        |
 
 ## Work Experience
 
